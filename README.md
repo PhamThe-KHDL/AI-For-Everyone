@@ -1,4 +1,7 @@
 # AI For Everyone
+
+## Thông tin
+
 Khóa học AI For Everyone trên Coursera 
 
 
