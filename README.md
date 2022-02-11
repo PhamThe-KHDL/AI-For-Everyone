@@ -11,7 +11,7 @@ Khóa học AI For Everyone trên Coursera
 
 
 
-## Học viên
+## Thực hiện
 ```
 Phạm Đức Thể
 
